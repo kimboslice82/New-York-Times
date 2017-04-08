@@ -1,0 +1,19 @@
+/*@font-face {
+    font-family: "google";
+    src: url("https://fonts.googleapis.com/css?family=Cormorant+SC:400,700|Roboto:300,400");
+    
+}*/
+
+#main-header {
+    font-family: 'Cormorant SC', serif;
+    background: url(images/hptexture.jpg);
+}
+
+.form-group {    
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+    background: url("images/P130802-9.jpg");
+}
